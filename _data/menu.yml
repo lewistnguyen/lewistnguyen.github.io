@@ -12,8 +12,10 @@ entries:
   - title: welcome
     entries:
       - title: you are landing on lewis nguyen's personal website
-      - title: my autobiography
+      - title: about me
         url: whoami.html
+      - title: my CV
+        url: CV.html
 
 #  - title: all posts
 #    post_list:
