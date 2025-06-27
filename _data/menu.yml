@@ -17,12 +17,22 @@ entries:
       - title: my CV
         url: Public_CV.pdf
 
-#  - title: all posts
-#    post_list:
-#      limit: 5
-#      show_more: true
-#      show_more_text: See archive...
-#      show_more_url: archive.html
+  - title: i learn complicated things
+    entries:
+      - title: quantum chemistry and beyond
+        url: collections/quantum-chem-journal.html
+        post_list:
+          category: quantum-chemistry
+          show_more: true
+          show_more_text: See more posts...
+          show_more_url: archives/quantum-chem-archive.html
+
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
 
 #  - title: posts by category
 #    post_list:
