@@ -18,7 +18,14 @@ Last edited: June 26, 2025.
 5. Cramer, C. J. *Essentials of Computational Chemistry: Theories and Models*, 2nd ed.; John Wiley & Sons, 2004.
 6. Jensen, F. *Introduction to Computational Chemistry*, 3rd ed.; John Wiley & Sons, 2017.
 
-## Papers
+## Literature reviews & Perspectives
+
+1. Bursch, M; Mewes, J.-M.; Hansen, A.; Grimme, S. Best-practice DFT protocols for basic molecular computational chemistry. *Angew. Chem. Int. Ed.* **2022**, *61* (42), e202205735. DOI: [https://doi.org/10.1002/anie.202205735](https://doi.org/10.1002/anie.202205735)
+    - A practical guide to how to do DFT for molecular (i.e. finite size, not crystals) systems to yield the best results.
+2. Grimme, S.; Hansen, A.; Brandenburg, J. G.; Bannwarth, C. Dispersion-corrected mean-field electronic structure methods. *Chem. Rev.* **2016**, *116* (9), 5105–5154. DOI: (https://doi.org/10.1021/acs.chemrev.5b00533)[https://doi.org/10.1021/acs.chemrev.5b00533]
+    - A discussion of latest methods to correct for long-range interaction, including dispersion-corrected functionals, semiempirical corrections, and others. Authored by Stefan Grimme and colleagues at the University of Bonn. Grimme himself was integral in the development of some of the most popular semiempirical correction schemes these days.
+
+## Original papers
 
 ### Density Functional Theory (DFT)
 
@@ -26,7 +33,5 @@ Last edited: June 26, 2025.
     - First cornerstone paper of DFT with the proofs of the two Hohenberg-Kohn theorems.
 2. Kohn, W.; Sham, L. J. Self-consistent equations including exchange and correlation effects. *Phys. Rev.* **1965**, *140*, A1133. DOI: [https://doi.org/10.1103/PhysRev.140.A1133](https://doi.org/10.1103/PhysRev.140.A1133)
     - Second cornerstone paper of DFT with the Kohn-Sham formulation which is the workhorse behind almost all existing DFT applications.
-3. Bursch, M; Mewes, J.-M.; Hansen, A.; Grimme, S. Best-practice DFT protocols for basic molecular computational chemistry. *Angew. Chem. Int. Ed.* **2022**, *61* (42), e202205735. DOI: [https://doi.org/10.1002/anie.202205735](https://doi.org/10.1002/anie.202205735)
-    - A practical guide to how to do DFT for molecular (i.e. finite size, not crystals) systems to yield the best results.
-4. Perdew, J. P.; Burke, K.; Ernzerhof, M. Generalized gradient approximation made simple. *Phys. Rev. Lett.* **1997**, *77*, 3865. DOI: [https://doi.org/10.1103/PhysRevLett.77.3865](https://doi.org/10.1103/PhysRevLett.77.3865)
+3. Perdew, J. P.; Burke, K.; Ernzerhof, M. Generalized gradient approximation made simple. *Phys. Rev. Lett.* **1997**, *77*, 3865. DOI: [https://doi.org/10.1103/PhysRevLett.77.3865](https://doi.org/10.1103/PhysRevLett.77.3865)
     - Introducing the PBE functional, one of the most commonly used functionals of the *generalized gradient approximation* (GGA) family in modern DFT.
