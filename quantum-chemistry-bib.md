@@ -24,8 +24,18 @@ Last edited: June 26, 2025.
     - A practical guide to how to do DFT for molecular (i.e. finite size, not crystals) systems to yield the best results.
 2. Grimme, S.; Hansen, A.; Brandenburg, J. G.; Bannwarth, C. Dispersion-corrected mean-field electronic structure methods. *Chem. Rev.* **2016**, *116* (9), 5105–5154. DOI: (https://doi.org/10.1021/acs.chemrev.5b00533)[https://doi.org/10.1021/acs.chemrev.5b00533]
     - A discussion of latest methods to correct for long-range interaction, including dispersion-corrected functionals, semiempirical corrections, and others. Authored by Stefan Grimme and colleagues at the University of Bonn. Grimme himself was integral in the development of some of the most popular semiempirical correction schemes these days.
+3. Slater, J. C. Note on Hartree's method. *Phys. Rev.* **1930**, *35*, 210. DOI: (https://doi.org/10.1103/PhysRev.35.210.2)[https://doi.org/10.1103/PhysRev.35.210.2]
 
 ## Original papers
+
+### Foundations of Quantum Chemistry
+
+1. Dirac, P. A. M. Quantum mechanics of many-electron systems. *Proc. R. Soc. Lond. A* **1929**, *123*, 714–733. DOI: [https://doi.org/10.1098/rspa.1929.0024](https://doi.org/10.1098/rspa.1929.0024)
+    - The first paper to introduce the concept of a many-electron wavefunction, and also the paper in which the famous Dirac quote describing the entire field of computational chemistry to date is found: "The underlying physical laws necessary for the mathematical theory of a large part of physics and the whole of chemistry are thus completely known, and the difficulty is only that the exact application of these laws leads to equations much too complicated to be soluble."
+2. Fock, V. Näherungsmethode zur Lösung des quantenmechanischen Mehrkörperproblems. *Z. Phys.* **1930**, *61*, 126–148. DOI: [ https://doi.org/10.1007/BF01340294]( https://doi.org/10.1007/BF01340294)
+    - The first paper to introduce the Hartree-Fock method, which is the basis of most quantum chemistry methods today. Written in German, so I might have to brush up a bit on my German to read it.
+3. Brillouin, L. Les champs "self-consistents" de Hartree et de Fock.
+    - Paper is in French and impossible to find a PDF online but it's cited in later literature by Slater and others so it's useful for now to leave it here and go for a search later.
 
 ### Density Functional Theory (DFT)
 
