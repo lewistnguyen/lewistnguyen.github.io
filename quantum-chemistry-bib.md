@@ -6,7 +6,7 @@ which_category: quantum-chemistry
 
 This is a list of papers and other resources relevant to quantum chemistry and related topics. They are sorted by resource type (papers, books, videos, tutorials, etc.) and by topic if necessary. This bibliography does not only include items that I already read or am reading but also what I plan to read but have not yet dedicated time to do so.
 
-Last edited: June 26, 2025.
+Last edited: June 29, 2025.
 
 ## Textbooks
 
