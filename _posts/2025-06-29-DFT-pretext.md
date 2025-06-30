@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A pretext to Density Functional Theory
-which_category: quantum-chemistry
+categories: quantum-chemistry
 ---
 
 By the 1960s, the tenets of quantum mechanics have been well established. The idea that every physical system is described by a wavefunction that abides by the Schrödinger equation and contains all the information about the system has been explored to benefit chemistry. Paul Dirac first presented the idea of a many-electron wavefunction in his 1929 paper "Quantum mechanics of many-electron systems" (*Proc. R. Soc. Lond. A* **1929**, *123*, 714–733). The Hartree-Fock method has been known since the 1930s, and scientists like Slater have contributed greatly to the refinement of it&mdash;the Hartree-Fock method remains the basis of the most important quantum chemistry methods today.
