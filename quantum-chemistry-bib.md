@@ -44,3 +44,6 @@ Last edited: June 29, 2025.
     - Second cornerstone paper of DFT with the Kohn-Sham formulation which is the workhorse behind almost all existing DFT applications.
 3. Perdew, J. P.; Burke, K.; Ernzerhof, M. Generalized gradient approximation made simple. *Phys. Rev. Lett.* **1997**, *77*, 3865. DOI: [https://doi.org/10.1103/PhysRevLett.77.3865](https://doi.org/10.1103/PhysRevLett.77.3865)
     - Introducing the PBE functional, one of the most commonly used functionals of the *generalized gradient approximation* (GGA) family in modern DFT.
+4. Adamo, C.; Ernzerhof, M.; Scuseria, G. E. The meta-GGA functional: Thermochemistry with a kinetic energy density dependent exchange-correlation functional. *J. Chem. Phys.* **2000**, *112*, 2643–2649. DOI: [https://doi.org/10.1063/1.480838](https://doi.org/10.1063/1.480838)
+    - Discussing the meta-GGA functional, which is a more advanced functional family that includes kinetic energy density in addition to electron density and its gradient.
+
