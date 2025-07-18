@@ -5,7 +5,7 @@ title: quantum chemistry bibliography
 
 This is a list of papers and other resources relevant to quantum chemistry and related topics. They are sorted by resource type (papers, books, videos, tutorials, etc.) and by topic if necessary. This bibliography does not only include items that I already read or am reading but also what I plan to read but have not yet dedicated time to do so.
 
-Last edited: June 29, 2025.
+Last edited: July 18, 2025.
 
 ## Textbooks
 
@@ -46,4 +46,6 @@ Last edited: June 29, 2025.
     - Introducing the PBE functional, one of the most commonly used functionals of the *generalized gradient approximation* (GGA) family in modern DFT.
 4. Adamo, C.; Ernzerhof, M.; Scuseria, G. E. The meta-GGA functional: Thermochemistry with a kinetic energy density dependent exchange-correlation functional. *J. Chem. Phys.* **2000**, *112*, 2643–2649. DOI: [https://doi.org/10.1063/1.480838](https://doi.org/10.1063/1.480838)
     - Discussing the meta-GGA functional, which is a more advanced functional family that includes kinetic energy density in addition to electron density and its gradient.
+5. Garza, A. J.; Scuseria, G. E. Predicting band gaps with hybrid density functionals. *J. Phys. Chem. Lett.* **2016**, *7* (20), 4165–4170. DOI: [https://doi.org/10.1021/acs.jpclett.6b01807](https://doi.org/10.1021/acs.jpclett.6b01807)
+    - Discussing the use of hybrid functionals, which mix exact exchange with DFT exchange-correlation functionals, to predict band gaps in solids.
 
